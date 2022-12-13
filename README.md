@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Right click and click the inspect option or Ctrl+Shift+I (windows), Command+Option+I (macOS), and navigate to the console tab for a list of the study topics and a suggestion of what to study next.
+Right click and click the inspect option or Ctrl+Shift+I (windows), Command+Option+I (macOS), and navigate to the console tab for a list of the study topics and a suggestion of what to study next. Use of chrome extensions may cause errors.
 
 ## Credits
 
